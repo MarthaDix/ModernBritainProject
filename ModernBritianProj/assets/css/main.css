@@ -2271,3 +2271,33 @@ button,
     border-top: 0;
     margin-top: 0;
     padding-top: 0; }
+
+.piccaption {
+  text-align: center
+}
+.partab {
+  text-indent: 5%
+}
+.centerimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.coloredbox {
+  background-color:#faf9dc ;
+  padding: 10px ;
+  width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.recipetext {
+  padding: 10;
+  text-align: center;
+  font-family: "Apple Chancery"
+}
+.bib {
+  margin-left: 2em; 
+  text-indent: -4em;
+}
